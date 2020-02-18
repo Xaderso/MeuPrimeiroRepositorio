@@ -1,0 +1,14 @@
+{
+  "protagonistas": [
+    { "id": 1, "One Piece": "Luffy" },
+    { "id": 2, "Madoka Magica": "" },
+    { "id": 3, "Bleach": "Ichigo" }
+  ],
+  "secundarios": [
+    { "id": 1, "One Piece": "Nami", "postId": 1 },
+    { "id": 2, "MAdoka": "Catn", "postId": 1 }
+  ],
+  "vencedor": {
+    "One Piece": "Zoro"
+  }
+}
